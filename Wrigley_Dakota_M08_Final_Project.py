@@ -1,7 +1,6 @@
 import re # for regex expressions
 import logging # for creating log files
 import argparse # CLI arg parsing tool
-import datetime
 
 
 def scanner(choice):
@@ -96,4 +95,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
